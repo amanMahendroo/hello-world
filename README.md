@@ -1,5 +1,6 @@
 # hello-world
 optional
-function () {
-    
+function (){
+  console.log('blablabla');
+ }
 }
